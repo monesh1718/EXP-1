@@ -1,3 +1,4 @@
+<img width="1150" height="609" alt="exp1" src="https://github.com/user-attachments/assets/a69ef38d-fa79-47fd-ae9e-c6e7566f4618" />
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -39,6 +40,8 @@ b.  KCL:
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
+<img width="1150" height="609" alt="exp1" src="https://github.com/user-attachments/assets/27529943-8192-48a1-9df6-e02f3fcf1923" />
+<img width="1149" height="601" alt="ex1" src="https://github.com/user-attachments/assets/43fef7bf-a4b5-45aa-80c9-b805763367ca" />
 
 CIRCUIT DIAGRAM:
 
